@@ -1,2 +1,2 @@
-# 3-wheel-arduino-robot
-3 wheel robot using Arduino
+# 3-wheel-Arduino-car
+3 wheel car using Arduino
